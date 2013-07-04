@@ -108,7 +108,9 @@ ol li {
 }
 
 .content li {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   list-style-image: url(../images/zax.png); 
+  font-size: 14px;
 }
 
 blockquote {
