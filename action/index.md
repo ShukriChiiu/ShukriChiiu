@@ -1,12 +1,42 @@
 ---
-title: Archive
+title: 实战技巧
 layout: page
 ---
 
-首页：国内首批全业务链券商，A股、B股、港股（H股）、新三板、商品期货、股指期货、融资融券、大小非、配资、ETF套利、LOF、基金、信托、理财产品、贴息存款、国际期货开户、美股、新加坡股、国际期货、黄金外汇开户均可办理！
-
-开户佣金万3至万8，欢迎大客户转户，送好礼
-独家软件配置10档盘口，更有全国一流投顾团队，上证报纸前一天知道。
-上海排名第一营业部，承接私募、机构业务
-通达信最新版软件，刷新速度微秒级
-手机：13148110872   qq  ：1945971145
+<ul class="listing">
+<li class="listing-seperator">证券交易方法</li>
+  <li class="listing-item">第一种 
+  <a href="{{ site.url }}/2013/07/05/daoli6.html" title="{{ post.title }}">特定股票投资法</a>
+  </li>
+  <li class="listing-item">第二种
+  <a href="{{ site.url }}/2013/07/05/daoli5.html" title="{{ post.title }}">特定股票投机法</a>
+  </li>
+  <li class="listing-item">第三种 
+  <a href="{{ site.url }}/2013/07/05/daoli4.html" title="{{ post.title }}">小盘股轮动交易法</a>
+  </li>
+  <li class="listing-item">第四种 
+  <a href="{{ site.url }}/2013/07/05/daoli3.html" title="{{ post.title }}">大盘股轮动交易法</a>
+  </li>
+  <li class="listing-item">第五种 
+  <a href="{{ site.url }}/2013/07/05/daoli2.html" title="{{ post.title }}">大中盘股混合交易法</a>
+  </li>
+  <li class="listing-item">第六种 
+  <a href="{{ site.url }}/2013/07/05/daoli1.html" title="{{ post.title }}">自由组合交易法</a>
+  </li>
+  </li>
+  <li class="listing-item">第七种 
+  <a href="{{ site.url }}/2013/07/05/daoli1.html" title="{{ post.title }}">主力追踪交易法</a>
+  </li>
+  </li>
+  <li class="listing-item">第八种 
+  <a href="{{ site.url }}/2013/07/05/daoli1.html" title="{{ post.title }}">综合技术交易法</a>
+  </li>
+  </li>
+  <li class="listing-item">第九种 
+  <a href="{{ site.url }}/2013/07/05/daoli1.html" title="{{ post.title }}">板块轮动交易法</a>
+  </li>
+  </li>
+  <li class="listing-item">第十种 
+  <a href="{{ site.url }}/2013/07/05/daoli1.html" title="{{ post.title }}">ETF交易法（十年获利100-1000倍的方法）</a>
+  </li>
+</ul>
