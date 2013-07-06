@@ -107,7 +107,7 @@ ol li {
   padding-left: 20px;
 }
 
-.content li {
+.home_index li {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   list-style-image: url(../images/zax.png); 
   font-size: 14px;
@@ -318,7 +318,7 @@ a.buttons:hover {
 section {
   width:650px;
   float:right;
-  padding-bottom:50px;
+  padding-bottom:10px;
 }
 
 
@@ -419,3 +419,13 @@ footer {
   }
 }
 
+li.listing-seperator {
+  list-style-type: none;
+  font-weight: bold;
+}
+li.listing-item {
+  list-style-type: none;
+  padding: 0;
+  position: relative;
+  z-index: 2;
+}
