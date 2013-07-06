@@ -445,3 +445,22 @@ li.listing-item {
 .test_online {
   border: none;
 }
+
+.listing {
+  display: inline-block;
+  width: 305px;
+}
+.zhengquan img {
+  width: 120px;
+  height: 70px;
+  border: 1px solid;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+}
+.zhengquan p {
+  display: inline-block;
+  font-size: 20px;
+  vertical-align: top;
+  margin: 20px;
+}
