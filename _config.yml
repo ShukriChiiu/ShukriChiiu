@@ -3,4 +3,4 @@ permalink: /:year/:month/:day/:title.html
 name: 上海经纪人联盟
 pygments: true
 url1: http://localhost:4000
-url: http://kaihu888.co/
+url: http://kaihu888.co
