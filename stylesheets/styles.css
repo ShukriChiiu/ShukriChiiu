@@ -436,31 +436,50 @@ li.listing-item {
   z-index: 2;
 }
 
-#showAD {
+#ShowAD {
   position:fixed;
   top:11em;
   left:1000px;
 }
-
+#ShowAD p{
+  display: inline-block;
+  vertical-align: top;
+  margin: 51px 0 0 0;
+}
 .test_online {
+  padding: 0;
+  margin: 0;
   border: none;
+  display: inline-block;
 }
 
 .listing {
   display: inline-block;
   width: 305px;
 }
+.zhengquan {
+  margin: 0 0 15px 0;
+}
 .zhengquan img {
-  width: 120px;
-  height: 70px;
+  width: 150px;
+  height: 80px;
   border: 1px solid;
   display: inline-block;
   padding: 0;
-  margin: 0;
+  margin: 27px;
+}
+.zhengquan .zhengquan_content {
+  display: inline-block;
+  margin: 0 0 0 15px;
+  vertical-align: top;
 }
 .zhengquan p {
-  display: inline-block;
-  font-size: 20px;
-  vertical-align: top;
-  margin: 20px;
+  display: block;
+  font-size: 18px;
+  color: #0B6BB7;
+}
+.zhengquan small {
+  display: block;
+  line-height: 24px;
+  color: #7F7F7F;
 }
