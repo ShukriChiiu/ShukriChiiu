@@ -435,3 +435,13 @@ li.listing-item {
   position: relative;
   z-index: 2;
 }
+
+#showAD {
+  position:fixed;
+  top:11em;
+  left:1000px;
+}
+
+.test_online {
+  border: none;
+}
