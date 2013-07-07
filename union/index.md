@@ -1,5 +1,5 @@
 ---
-title: 券商联盟
+title: 券商2012研究实力排名及所用软件
 layout: page
 ---
 

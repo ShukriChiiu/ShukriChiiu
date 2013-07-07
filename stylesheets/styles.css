@@ -247,7 +247,7 @@ h1.header {
 
 
 h1.header, a.header, a.name, header a{
-	color: #fff;
+	color: #C5CFC6;
 }
 
 a.header {
@@ -333,7 +333,7 @@ footer {
   float:left;
   position:fixed;
   bottom:10px;
-	padding-left: 50px;
+  padding-left: 20px;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -424,16 +424,15 @@ footer {
 }
 
 li.listing-seperator {
-  text-align: center;
+  text-align: left;
   list-style-type: none;
   font-weight: bold;
   font-size: 17px;
   margin-bottom: 10px;
 }
 li.listing-item {
-  text-align: center;
+  text-align: left;
   list-style-type: none;
-  padding: 0;
   position: relative;
   z-index: 2;
 }
@@ -457,14 +456,14 @@ li.listing-item {
 
 .listing {
   display: inline-block;
-  width: 305px;
+  width: 214px;
 }
 .zhengquan {
   margin: 0 0 15px 0;
 }
 .zhengquan img {
   width: 150px;
-  height: 80px;
+  height: 85px;
   border: 1px solid;
   display: inline-block;
   padding: 0;
@@ -472,13 +471,14 @@ li.listing-item {
 }
 .zhengquan .zhengquan_content {
   display: inline-block;
-  margin: 0 0 0 15px;
+  margin: 22px 0 0 15px;
   vertical-align: top;
 }
 .zhengquan p {
   display: block;
   font-size: 18px;
   color: #0B6BB7;
+  margin: 0;
 }
 .zhengquan small {
   display: block;
