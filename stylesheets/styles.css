@@ -215,8 +215,8 @@ td {
 /* Header */
 
 header {
-	background-color: #171717;
-	color: #FDFDFB;
+  background-color: #171717;
+  color: #FDFDFB;
   width:170px;
   float:left;
   position:fixed;
@@ -329,11 +329,15 @@ section {
 /* Footer */
 
 footer {
-  width:170px;
+  width: 100%;
   float:left;
-  position:fixed;
   bottom:10px;
-  padding-left: 20px;
+  position: fixed;
+  left: 35%;  
+}
+footer p {
+  font-size: 13px;
+  color: #999;
 }
 
 @media print, screen and (max-width: 960px) {

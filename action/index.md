@@ -6,10 +6,10 @@ layout: page
 <ul class="listing">
 <li class="listing-seperator">证券交易方法</li>
   <li class="listing-item">第一种 
-  <a href="{{ site.url }}/2013/07/05/daoli6.html" title="{{ post.title }}">特定股票投资法</a>
+  <a href="{{ site.url }}/2013/07/05/jiaoyi1.html" title="{{ post.title }}">特定股票投资法</a>
   </li>
   <li class="listing-item">第二种
-  <a href="{{ site.url }}/2013/07/05/daoli5.html" title="{{ post.title }}">特定股票投机法</a>
+  <a href="{{ site.url }}/2013/07/05/jiaoyi2.html" title="{{ post.title }}">特定股票投机法</a>
   </li>
   <li class="listing-item">第三种 
   <a href="{{ site.url }}/2013/07/05/daoli4.html" title="{{ post.title }}">小盘股轮动交易法</a>
