@@ -215,8 +215,7 @@ td {
 /* Header */
 
 header {
-    background-image: url(../images/header.jpg);
-    background-size: 170px 425px;
+    background: url(../images/header.jpg) no-repeat;
     color: #FDFDFB;
     width:170px;
     float:left;
