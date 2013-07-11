@@ -158,6 +158,37 @@
 
 </article>
 
+
+<section id="page_nav">
+  
+  <a href='http://localhost:4000/2013/07/05/jishu2.html'>← Previous</a>
+  
+  
+  <a href='http://localhost:4000/2013/07/05/jishu4.html'>Next →</a>
+  
+</section>
+<script type="text/javascript">
+$(function(){
+  $(document).keydown(function(e) {
+    if (e.target.nodeName.toUpperCase() != 'BODY') return;
+    var url = false;
+        if (e.which == 37 || e.which == 74) {  // Left arrow and J
+            
+        url = 'http://localhost:4000/2013/07/05/jishu2.html';
+        
+        }
+        else if (e.which == 39 || e.which == 75) {  // Right arrow and K
+            
+        url = 'http://localhost:4000/2013/07/05/jishu4.html';
+        
+        }
+        if (url) {
+            window.location = url;
+        }
+  });
+})
+</script>
+
         </section>        
         <div class="kf-right-l" id="kf2-right-fixed" style="position: fixed;">
         <div class="kf-right-hd">

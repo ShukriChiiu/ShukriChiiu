@@ -215,7 +215,7 @@ td {
 /* Header */
 
 header {
-    background-image: url(../images/header.jpg);
+    background: url("http://sergio-blog.qiniudn.com/header.jpg?imageMogr/thumbnail/x481/quality/100/format/PNG") no-repeat;
     color: #FDFDFB;
     width:170px;
     float:left;
@@ -520,6 +520,7 @@ li.listing-item {
 .qqchat a{ background:url(../images/kf/qqchat.png); width:85px; height:24px; overflow:hidden; display:block; margin:10px auto;}
 .qqchat a:hover{ background-position:bottom;}
 .qqchat a span{ display:none;}
+.qqchat {padding: 1px}
 .more-info{ text-align:center; color:#F90; padding:3px;}
 
 
@@ -541,4 +542,24 @@ li.listing-item {
 }
 .kf-right-l li {
   list-style-type: none;
+}
+
+/* line 270, ../sass/style.scss */
+#page_nav {
+  text-align: center;
+  margin: 2em 0;
+}
+/* line 274, ../sass/style.scss */
+#page_nav a {
+  font-family: "微软雅黑", "Microsoft YaHei", sans-serif;
+  font-size: .8em;
+  padding: .5em .5em 0 .5em;
+  color: #a0a0a0;
+  background-color: #e0e0e0;
+  margin: 0 1em;
+  text-transform: uppercase;
+}
+/* line 284, ../sass/style.scss */
+#page_nav a:hover {
+  background-color: #e6e6e6;
 }
